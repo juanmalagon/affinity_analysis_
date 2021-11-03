@@ -2,3 +2,4 @@ The evolution of direct, data and digital marketing, Richard Webber, Journal of 
 Clustering Experiments on Big Transaction Data for Market Segmentation,
 Ashishkumar Singh, Grace Rumantir, Annie South, Blair Bethwaite, Proceedings of the 2014 International Conference on Big Data Science and Computing.
 A decision-making framework for precision marketing, Zhen You, Yain-Whar Si, Defu Zhang, XiangXiang Zeng, Stephen C.H. Leung c, Tao Li, Expert Systems with Applications, 42 (2015) 3357â€“3367.
+RPubs. Market Basket Analysis with recommenderlab. https://rpubs.com/DiegoUsai/478772
